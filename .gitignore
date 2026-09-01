@@ -1,0 +1,14 @@
+# source art — the deployed site uses the optimised copies in /assets
+Other Pictures/
+Profile Picture/
+About Me/
+Clients/
+Services/
+
+.DS_Store
+Thumbs.db
+.vercel/
+node_modules/
+
+# large source PNGs kept as a backup, not deployed
+_original-art/
